@@ -44,3 +44,12 @@
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content h4 {
     color: #068989;
 }
+
+
+.swagger-section .swagger-ui-wrap .model-signature .signature-nav a {
+    color: #666;
+}
+
+.swagger-section .swagger-ui-wrap .model-signature ul.signature-nav li {
+    border-right: 1px solid #aaa;
+}
