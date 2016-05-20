@@ -1,0 +1,8 @@
+.swagger-section .swagger-ui-wrap a {
+    color: #00748f;
+} 
+
+.swagger-section > #header { 
+    height: 40px; 
+    background-color: #83cfc8;
+}
