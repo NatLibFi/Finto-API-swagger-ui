@@ -39,3 +39,8 @@
 .swagger-section .swagger-ui-wrap pre {
     background-color: #FFFCEF;
 }
+
+
+.swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content h4 {
+    color: #0DA5A5;
+}
